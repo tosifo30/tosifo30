@@ -295,11 +295,12 @@ const developer = {
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=E2E8F0&icon_color=0891B2&ring_color=22D3EE"
-    width="100%"
-    alt="GitHub activity statistics"
-  />
+  <a href="https://github.com/tosifo30?tab=overview">
+    <img
+      src="https://img.shields.io/badge/VIEW_MY_GITHUB_ACTIVITY-0891B2?style=for-the-badge&logo=github&logoColor=white"
+      alt="View Tosifo30 GitHub activity"
+    />
+  </a>
 </p>
 
 <p align="center">
