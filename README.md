@@ -1,4 +1,4 @@
-<!-- ==================== ANIMATED HEADER ==================== -->
+<!-- ==================== HERO ==================== -->
 
 <p align="center">
   <img
@@ -11,21 +11,21 @@
 <h1 align="center">Hi, I'm Tauseef Ahmad 👋</h1>
 
 <p align="center">
+  <strong>Full-Stack Developer · MERN Stack · AI Integrations</strong>
+</p>
+
+<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=65&lines=Full-Stack+Developer+%7C+MERN+Stack;React+%7C+Next.js+%7C+Node.js;AI+Integrations+%26+Connected+Applications;Thoughtful+interfaces.+Practical+functionality.;Turning+ideas+into+digital+experiences."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=760&height=65&lines=Building+with+React%2C+Next.js+and+Node.js.;Thoughtful+interfaces.+Practical+functionality.;Connecting+ideas%2C+code%2C+and+experiences.;From+the+first+screen+to+the+final+API."
     width="100%"
-    alt="Full-Stack Developer — MERN Stack, Next.js and AI integrations"
+    alt="Building connected web experiences with React, Next.js and Node.js."
   />
 </p>
 
 <p align="center">
-  <strong>Building the interface. Connecting the logic. Refining the experience.</strong>
-</p>
-
-<p align="center">
-  I develop web applications that bring thoughtful design
+  I bring interfaces, application logic, and integrations together
   <br />
-  and practical functionality together.
+  to create web experiences that are clear, responsive, and useful.
 </p>
 
 <br />
@@ -34,7 +34,7 @@
   <a href="https://tosifo.co.uk">
     <img
       src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Explore tosifo.co.uk"
+      alt="Explore my portfolio"
     />
   </a>
   <a href="https://www.linkedin.com/in/tosifo004/">
@@ -46,7 +46,13 @@
   <a href="mailto:orgtauseef004@gmail.com">
     <img
       src="https://img.shields.io/badge/EMAIL_ME-1E293B?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email Tauseef Ahmad"
+      alt="Email me"
+    />
+  </a>
+  <a href="https://github.com/tosifo30">
+    <img
+      src="https://img.shields.io/badge/GITHUB-1E293B?style=for-the-badge&logo=github&logoColor=white"
+      alt="Visit tosifo30 on GitHub"
     />
   </a>
 </p>
@@ -66,29 +72,41 @@
 I'm **Tauseef Ahmad**, the developer behind **Tosifo Dev**.
 
 I build full-stack web applications with **React, Next.js,
-Node.js, Express, and MongoDB**, connecting clear frontend
-experiences with the backend functionality that makes them work.
+Node.js, Express, and MongoDB**, connecting thoughtful
+frontend experiences with the backend functionality
+that makes them work.
 
 My focus includes **responsive interfaces, admin and user
-dashboards, authentication, REST APIs, and AI integrations**.
+dashboards, authentication, REST APIs, and practical
+AI integrations**.
 
-I value readable code, reusable components, and thoughtful
-interactions that make a product easier to use.
+I care about readable code, reusable components, and
+making complex features straightforward to use.
 
 ```javascript
-const developer = {
+const tosifo = {
   name: "Tauseef Ahmad",
   brand: "Tosifo Dev",
+  github: "tosifo30",
   role: "Full-Stack MERN Developer",
 
-  frontend: ["React", "Next.js", "JavaScript", "Tailwind CSS"],
+  frontend: [
+    "React",
+    "Next.js",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Tailwind CSS"
+  ],
+
   backend: ["Node.js", "Express"],
   database: ["MongoDB"],
 
   focus: [
     "Responsive Web Applications",
     "Admin & User Dashboards",
-    "REST APIs & Authentication",
+    "Authentication",
+    "REST APIs",
     "AI Integrations"
   ],
 
@@ -105,7 +123,7 @@ const developer = {
 
 ---
 
-<!-- ==================== TECHNOLOGIES ==================== -->
+<!-- ==================== SKILLS ==================== -->
 
 ## 🛠️ My Technical Expertise
 
@@ -123,9 +141,9 @@ const developer = {
 </p>
 
 <p align="center">
-  Connected applications, from the first interaction
+  Connected applications with a React frontend,
   <br />
-  to the API and database behind it.
+  Node.js and Express backend, and MongoDB database.
 </p>
 
 <br />
@@ -144,14 +162,14 @@ const developer = {
 </p>
 
 <p align="center">
-  Frontend experiences and backend functionality
+  Bringing interfaces, application logic, APIs,
   <br />
-  built around the same product goals.
+  and databases together in one connected experience.
 </p>
 
 <br />
 
-<h3 align="center">🎨 Frontend & Interface Development</h3>
+<h3 align="center">🎨 Frontend Development</h3>
 
 <p align="center">
   <img
@@ -162,6 +180,12 @@ const developer = {
 
 <p align="center">
   Responsive layouts · Reusable components · UI animation
+</p>
+
+<p align="center">
+  Clear visual hierarchy and purposeful interactions
+  <br />
+  across desktop, tablet, and mobile screens.
 </p>
 
 <br />
@@ -206,7 +230,7 @@ const developer = {
 
 <br />
 
-<h3 align="center">🧰 Development Tools</h3>
+<h3 align="center">🧰 Tools & Workflow</h3>
 
 <p align="center">
   <img
@@ -231,7 +255,7 @@ const developer = {
 | :--- | :--- |
 | 🖥️ **Full-Stack Applications** | Connected interfaces, APIs, and database functionality. |
 | 📱 **Responsive Websites** | Clear layouts for desktop, tablet, and mobile screens. |
-| 📊 **Admin & User Dashboards** | Organized views for managing data and everyday tasks. |
+| 📊 **Admin & User Dashboards** | Organized views for managing information and everyday tasks. |
 | 🔐 **Authentication** | Sign-in flows and access control for application features. |
 | 🔌 **API Integrations** | Connections between applications and external services. |
 | 🤖 **AI Features** | AI capabilities integrated into useful web workflows. |
@@ -240,7 +264,7 @@ const developer = {
 
 ---
 
-<!-- ==================== SELECTED PROJECTS ==================== -->
+<!-- ==================== PROJECTS ==================== -->
 
 ## 🚀 Selected Projects
 
@@ -288,49 +312,6 @@ const developer = {
 
 ---
 
-<!-- ==================== GITHUB ACTIVITY ==================== -->
-<!-- Replace YOUR_GITHUB_USERNAME in every URL below. -->
-<!-- These cards depend on third-party services. -->
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/tosifo30?tab=overview">
-    <img
-      src="https://img.shields.io/badge/VIEW_MY_GITHUB_ACTIVITY-0891B2?style=for-the-badge&logo=github&logoColor=white"
-      alt="View Tosifo30 GitHub activity"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=E2E8F0&langs_count=8"
-    width="460"
-    alt="Languages represented in my public repositories"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0F172A&ring=22D3EE&fire=0891B2&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
-    width="100%"
-    alt="GitHub contribution streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0F172A&color=22D3EE&line=0891B2&point=FFFFFF&area=true&area_color=0891B2&hide_border=true&radius=10"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
-</p>
-
-<br />
-
----
-
 <!-- ==================== PROCESS ==================== -->
 
 ## 🧭 From Idea to Implementation
@@ -359,6 +340,14 @@ const developer = {
 </p>
 
 <p align="center">
+  Let's turn your idea into a clear, useful,
+  <br />
+  and thoughtfully built digital experience.
+</p>
+
+<br />
+
+<p align="center">
   <a href="mailto:orgtauseef004@gmail.com">
     <img
       src="https://img.shields.io/badge/LET'S_DISCUSS_YOUR_PROJECT-0891B2?style=for-the-badge&logo=gmail&logoColor=white"
@@ -370,30 +359,42 @@ const developer = {
 <br />
 
 <p align="center">
-  <strong>📧 Email</strong><br />
+  <strong>📧 Email</strong>
+  <br />
   <a href="mailto:orgtauseef004@gmail.com">
     orgtauseef004@gmail.com
   </a>
 </p>
 
 <p align="center">
-  <strong>📞 Phone</strong><br />
+  <strong>📞 Phone</strong>
+  <br />
   <a href="tel:+923049287445">0304 9287445</a>
 </p>
 
 <p align="center">
-  <strong>💼 LinkedIn</strong><br />
+  <strong>💼 LinkedIn</strong>
+  <br />
   <a href="https://www.linkedin.com/in/tosifo004/">
     linkedin.com/in/tosifo004
   </a>
 </p>
 
 <p align="center">
-  <strong>🌐 Portfolio</strong><br />
+  <strong>🌐 Portfolio</strong>
+  <br />
   <a href="https://tosifo.co.uk">tosifo.co.uk</a>
 </p>
 
+<p align="center">
+  <strong>💻 GitHub</strong>
+  <br />
+  <a href="https://github.com/tosifo30">github.com/tosifo30</a>
+</p>
+
 <br />
+
+---
 
 <p align="center">
   <strong>TOSIFO DEV</strong>
